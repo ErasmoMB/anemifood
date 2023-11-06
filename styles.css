@@ -47,6 +47,9 @@ nav {
 .navbar-left ul {
   margin-left: 12px;
 }
+.navbar-left ul li {
+  margin-left: 20px;
+}
 .navbar-left ul li a,
 .navbar-right ul li a {
   text-decoration: none;
