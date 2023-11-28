@@ -83,37 +83,42 @@ let productList = [];
 productList.push({
   name: "Café Orgánico de Altura 125 g.",
   price: 10,
-  image: "https://nutrih.pe/wp-content/uploads/2022/08/3.jpg",
+  image:
+    "https://nutrih.pe/wp-content/uploads/2023/11/cafe-organico-125-gr-600x600.webp",
   desc: "Hola 1",
 });
 productList.push({
   name: "Café Orgánico Nutri H 250 g.",
   price: 18,
-  image: "https://nutrih.pe/wp-content/uploads/2022/08/4.jpg",
+  image:
+    "https://nutrih.pe/wp-content/uploads/2023/11/cafe-organico-250-gr-600x600.webp",
   desc: "Hola 2",
 });
 productList.push({
-  name: "Caja Cereal Instantáneo x 12",
-  price: 96,
-  image: "https://nutrih.pe/wp-content/uploads/2022/08/5.jpg",
+  name: "Galleta Nutri H vegetariana con cereales | 30 UNID",
+  price: 32,
+  image:
+    "https://nutrih.pe/wp-content/uploads/2023/11/Galleta-Nutri-H-vegetariana-caja.webp",
   desc: "Hola 3",
 });
 productList.push({
-  name: "Caja x 12 Chocolates P.Taza",
-  price: 100,
-  image: "https://nutrih.pe/wp-content/uploads/2020/11/15.jpg",
+  name: "Galleta Nutri H con cereales | 30 UNID",
+  price: 32,
+  image:
+    "https://nutrih.pe/wp-content/uploads/2023/11/Galleta-Nutri-H-con-DHA-y-OMEGA-3-caja.webp",
   desc: "Hola 4",
 });
 productList.push({
-  name: "Caja x 6 Panetones",
-  price: 190,
-  image: "https://nutrih.pe/wp-content/uploads/2020/11/14.jpg",
+  name: "Paneton clasico",
+  price: 25,
+  image: "https://nutrih.pe/wp-content/uploads/2023/11/Paneton-clasico-1.webp",
   desc: "Hola 5",
 });
 productList.push({
-  name: "Chocolate para Taza con Omega 3 Nutri H",
-  price: 10,
-  image: "https://nutrih.pe/wp-content/uploads/2020/11/11.jpg",
+  name: "Chocolate en barra con Leche | 12 UNID",
+  price: 72,
+  image:
+    "https://nutrih.pe/wp-content/uploads/2023/11/Chocolate-barra-con-leche-600x600.webp",
   desc: "Hola 6",
 });
 
